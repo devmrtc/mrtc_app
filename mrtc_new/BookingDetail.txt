@@ -1,0 +1,37 @@
+
+M A A    R U D R A     T R A N S P O R T   C O M P A N Y 
+Booking Report For the Period 01/07/2022 To 20/01/2023     Page.1
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Srl Cnmt No Cn.Date    From To |   Pkgs    Awght    Cwght    V O G | K/P   Rate    Freight    Others      GST    Total Amt | Goods      Consignee             Consignor              
+--------------------------------|-----------------------------------|-------------------------------------------------------|----------------------------------------------------------------
+  1. 0497523 15/12/2022 NWD SRT |      3      195      195   141855 | P   900.00    2700.00      0.00     0.00      2700.00 | A S GOODS  BINOD KUMAR & CO.    OM TEXTILE          
+  2. 0497501 05/08/2022 NWD SRT |      1       50       50    40593 | P  1040.00    1040.00      0.00     0.00      1040.00 | A S GOODS  CHAMRIA CREATION PVT PRABHA HANDLOOM     
+  3. 0497516 31/08/2022 NWD SRT |      1       50       50    28371 | K    16.80     840.00      0.00     0.00       840.00 | A S GOODS  GOURI GANESH SAREES  PRABHA HANDLOOM     
+  4. 0497520 15/12/2022 NWD SRT |      1       60       60    30895 | P  1300.00    1300.00      0.00     0.00      1300.00 | A S GOODS  KEDIA TRADERS        PRABHA HANDLOOM     
+  5. 0497502 05/08/2022 NWD SRT |      1       50       50    36305 | P  1040.00    1040.00      0.00     0.00      1040.00 | A S GOODS  PAVITRBANDHAN SAREES PRABHA HANDLOOM     
+  6. 0497524 02/01/2023 NWD SRT |      1       60       60    49290 | P  1100.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SHREE SAI TRADERS(10 PRABHA HANDLOOM     
+  7. 0497525 02/01/2023 NWD SRT |      1       60       60    45975 | P  1100.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SHREE SAI TRADERS(10 PRABHA HANDLOOM     
+  8. 0497503 05/08/2022 NWD SRT |      1       50       50    38023 | K    16.80     840.00      0.00     0.00       840.00 | A S GOODS  SHREE SAI TRADERS(10 PRABHA HANDLOOM     
+  9. 0497504 05/08/2022 NWD SRT |      1       50       50    57270 | K    16.80     840.00      0.00     0.00       840.00 | A S GOODS  SHREE SAI TRADERS(10 PRABHA HANDLOOM     
+ 10. 0497505 05/08/2022 NWD SRT |      1       50       50    63539 | K    16.80     840.00      0.00     0.00       840.00 | A S GOODS  SHREE SAI TRADERS(10 PRABHA HANDLOOM     
+ 11. 0497517 31/08/2022 NWD SRT |      1       50       50    45122 | K    16.80     840.00      0.00     0.00       840.00 | A S GOODS  SHREE SAI TRADERS(10 PRABHA HANDLOOM     
+ 12. 0497506 23/08/2022 NWD SRT |      1       50       50    25402 | K    22.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SUNDARI CREATION NEW BARANWAL SYNTHETICS 
+ 13. 0497507 23/08/2022 NWD SRT |      1       50       50    26460 | K    22.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SUNDARI CREATION NEW BARANWAL SYNTHETICS 
+ 14. 0497508 23/08/2022 NWD SRT |      1       50       50    26460 | K    22.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SUNDARI CREATION NEW BARANWAL SYNTHETICS 
+ 15. 0497509 23/08/2022 NWD SRT |      1       50       50    26460 | K    22.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SUNDARI CREATION NEW BARANWAL SYNTHETICS 
+ 16. 0497510 23/08/2022 NWD SRT |      1       50       50    26460 | K    22.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SUNDARI CREATION NEW BARANWAL SYNTHETICS 
+ 17. 0497511 23/08/2022 NWD SRT |      1       50       50    25402 | K    22.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SUNDARI CREATION NEW BARANWAL SYNTHETICS 
+ 18. 0497512 23/08/2022 NWD SRT |      1       50       50    26460 | K    22.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SUNDARI CREATION NEW BARANWAL SYNTHETICS 
+ 19. 0497513 23/08/2022 NWD SRT |      1       50       50    25402 | K    22.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SUNDARI CREATION NEW BARANWAL SYNTHETICS 
+ 20. 0497514 23/08/2022 NWD SRT |      1       50       50    25402 | K    22.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SUNDARI CREATION NEW BARANWAL SYNTHETICS 
+ 21. 0497515 23/08/2022 NWD SRT |      1       50       50    25402 | K    22.00    1100.00      0.00     0.00      1100.00 | A S GOODS  SUNDARI CREATION NEW BARANWAL SYNTHETICS 
+ 22. 0497518 15/12/2022 NWD SRT |      1       60       60    29702 | P  1300.00    1300.00      0.00     0.00      1300.00 | A S GOODS  WAHEGURUJI CREATION  PRABHA HANDLOOM     
+ 23. 0497519 15/12/2022 NWD SRT |      1       60       60    30064 | P  1300.00    1300.00      0.00     0.00      1300.00 | A S GOODS  WAHEGURUJI CREATION  PRABHA HANDLOOM     
+ 24. 0497521 15/12/2022 NWD SRT |      1       60       60    16430 | P  1300.00    1300.00      0.00     0.00      1300.00 | A S GOODS  XX SIDDHA GANESH CRE PRABHA HANDLOOM     
+ 25. 0497522 15/12/2022 NWD SRT |      1       60       60    20828 | P  1300.00    1300.00      0.00     0.00      1300.00 | A S GOODS  XX SIDDHA GANESH CRE PRABHA HANDLOOM     
+--------------------------------|-----------------------------------|-------------------------------------------------------|----------------------------------------------------------------
+ Sub Total =>                   |     27     1465     1465          |              28680.00      0.00     0.00     28680.00 | 
+--------------------------------|-----------------------------------|-------------------------------------------------------|----------------------------------------------------------------
+================================|===================================|=======================================================|==============================================================
+ Grand Total =>                 |     27     1465     1465          |              28680.00      0.00     0.00     28680.00
+===========================================================================================================================================================================================
