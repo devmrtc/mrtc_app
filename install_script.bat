@@ -1,14 +1,32 @@
 @echo off
+echo  .----------------.   .----------------.   .----------------.   .----------------.
+| .--------------. | | .--------------. | | .--------------. | | .--------------. |
+| | ____    ____ | | | |  _______     | | | |  _________   | | | |     ______   | |
+| ||_   \  /   _|| | | | |_   __ \    | | | | |  _   _  |  | | | |   .' ___  |  | |
+| |  |   \/   |  | | | |   | |__) |   | | | | |_/ | | \_|  | | | |  / .'   \_|  | |
+| |  | |\  /| |  | | | |   |  __ /    | | | |     | |      | | | |  | |         | |
+| | _| |_\/_| |_ | | | |  _| |  \ \_  | | | |    _| |_     | | | |  \ `.___.'\  | |
+| ||_____||_____|| | | | |____| |___| | | | |   |_____|    | | | |   `._____.'  | |
+| |              | | | |              | | | |              | | | |              | |
+| '--------------' | | '--------------' | | '--------------' | | '--------------' |
+ '----------------'   '----------------'   '----------------'   '----------------'
+echo WELCOME TO SOFTWARE INSTALLATION OF MAA RUDRA TRANSPORT CARRIERS PVT. LTD.
+pause
+echo we are installing git now -------------------------------------------------------
 winget install git
+pause
+timeout /t 20
+
 set "desktop=%USERPROFILE%\Desktop"
 echo The desktop location is: %desktop%
 cd %USERPROFILE%\Desktop
+md "C:\Tmpvfpp"
+cd "C:\Tmpvfpp"
 git clone https://github.com/devmrtc/mrtc_app.git
 pause
-cd mrtc_app
 md "C:\MRTC_New"
-md "C:\Tmpvfpp"
 md "F:\VFPRG"
+cd mrtc_app
 xcopy "%USERPROFILE%\Desktop\mrtc_app\mrtc.xps*" "C:\Windows\" /e /i
 xcopy "%USERPROFILE%\Desktop\mrtc_app\MRTC_New\*" "C:\MRTC_New" /e /i
 xcopy "%USERPROFILE%\Desktop\mrtc_app\VFPRG\*" "F:\VFPRG\" /e /i
