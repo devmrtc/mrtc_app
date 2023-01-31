@@ -15,6 +15,7 @@ excl=off
 date=British
 century=on
 sysmenu=on
+command=do mataonline.exe
 status=off
 history=100
 odom=100

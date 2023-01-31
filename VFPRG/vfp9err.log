@@ -84,16 +84,14 @@ Fatal error: Exception code=C0000005 @ 23/09/2020 06:31:55 PM. Error log file: F
 Fatal error: Exception code=C0000005 @ 26.09.2020 08:23:28 PM. Error log file: F:\VFPRG\vfp9err.log
 
 
-Fatal error: Exception code=C0000005 @ 29/07/2022 03:06:57 AM. Error log file: F:\VFPRG\vfp9err.log
+Fatal error: Exception code=C0000005 @ 20/08/2021 10:37:38 AM. Error log file: f:\vfprg\vfp9err.log
+	Called from -  connect2sql line 596  {f:\vfprg\mrtc_library2.prg mrtc_library2.fxp}
+	Called from -  form1.init line 4  {f:\vfprg\mrtc_login.sct f:\vfprg\mrtc_login.sct}
+	Called from -  aa line 6  {f:\vfprg\aa.prg f:\vfprg\mrtc_new.exe}
 
 
-Fatal error: Exception code=C0000005 @ 29/07/2022 03:07:04 AM. Error log file: F:\VFPRG\vfp9err.log
-
-
-Fatal error: Exception code=C0000005 @ 29/07/2022 03:13:12 AM. Error log file: F:\VFPRG\vfp9err.log
-
-
-Fatal error: Exception code=C0000005 @ 29/07/2022 04:02:22 AM. Error log file: F:\VFPRG\vfp9err.log
-
-
-Fatal error: Exception code=C0000005 @ 29/07/2022 04:03:01 AM. Error log file: F:\VFPRG\vfp9err.log
+Fatal error: Exception code=C0000005 @ 25/08/2021 01:38:23 PM. Error log file: f:\vfprg\vfp9err.log
+	Called from -  connect2sql line 596  {f:\vfprg\mrtc_library2.prg mrtc_library2.fxp}
+	Called from -  form1.command1.click line 2  {f:\vfprg\cnmt_entry_from.sct f:\vfprg\cnmt_entry_from.sct}
+	Called from -  mrtc_menu line 254  {f:\vfprg\mrtc_menu.prg mrtc_menu.fxp}
+	Called from -  form1.command1.click line 42  {f:\vfprg\mrtc_login.sct f:\vfprg\mrtc_login.sct}
