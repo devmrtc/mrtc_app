@@ -2,7 +2,7 @@
 echo WELCOME TO SOFTWARE INSTALLATION OF MAA RUDRA TRANSPORT CARRIERS PVT. LTD.
 pause
 echo we are installing git now -------------------------------------------------------
-winget install git
+winget install git.git
 pause
 timeout /t 05
 
