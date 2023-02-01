@@ -22,12 +22,14 @@ xcopy "C:\Tmpvfpp\mrtc_app\VFPRG\*" "F:\VFPRG\" /e /i
 pause
 set target=C:\Mrtc_new\F.BAT
 set shortcut=%USERPROFILE%\Desktop\mrtc.lnk
+set icon=C:\Tmpvfpp\mrtc_app\mrtc.ico
 
 rem Create the shortcut
 echo Set oWS = WScript.CreateObject("WScript.Shell") > %temp%\CreateShortcut.vbs
 echo sLinkFile = "%shortcut%" >> %temp%\CreateShortcut.vbs
 echo Set oLink = oWS.CreateShortcut(sLinkFile) >> %temp%\CreateShortcut.vbs
 echo oLink.TargetPath = "%target%" >> %temp%\CreateShortcut.vbs
+echo oLink.IconLocation = "%icon%" >> "%temp%\CreateShortcut.vbs"
 echo oLink.Save >> %temp%\CreateShortcut.vbs
 cscript /nologo %temp%\CreateShortcut.vbs
 
