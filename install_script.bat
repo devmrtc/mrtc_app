@@ -1,21 +1,10 @@
 @echo off
-echo  .----------------.   .----------------.   .----------------.   .----------------.
-| .--------------. | | .--------------. | | .--------------. | | .--------------. |
-| | ____    ____ | | | |  _______     | | | |  _________   | | | |     ______   | |
-| ||_   \  /   _|| | | | |_   __ \    | | | | |  _   _  |  | | | |   .' ___  |  | |
-| |  |   \/   |  | | | |   | |__) |   | | | | |_/ | | \_|  | | | |  / .'   \_|  | |
-| |  | |\  /| |  | | | |   |  __ /    | | | |     | |      | | | |  | |         | |
-| | _| |_\/_| |_ | | | |  _| |  \ \_  | | | |    _| |_     | | | |  \ `.___.'\  | |
-| ||_____||_____|| | | | |____| |___| | | | |   |_____|    | | | |   `._____.'  | |
-| |              | | | |              | | | |              | | | |              | |
-| '--------------' | | '--------------' | | '--------------' | | '--------------' |
- '----------------'   '----------------'   '----------------'   '----------------'
 echo WELCOME TO SOFTWARE INSTALLATION OF MAA RUDRA TRANSPORT CARRIERS PVT. LTD.
 pause
 echo we are installing git now -------------------------------------------------------
 winget install git
 pause
-timeout /t 20
+timeout /t 05
 
 set "desktop=%USERPROFILE%\Desktop"
 echo The desktop location is: %desktop%
@@ -27,9 +16,9 @@ pause
 md "C:\MRTC_New"
 md "F:\VFPRG"
 cd mrtc_app
-xcopy "%USERPROFILE%\Desktop\mrtc_app\mrtc.xps*" "C:\Windows\" /e /i
-xcopy "%USERPROFILE%\Desktop\mrtc_app\MRTC_New\*" "C:\MRTC_New" /e /i
-xcopy "%USERPROFILE%\Desktop\mrtc_app\VFPRG\*" "F:\VFPRG\" /e /i
+xcopy "C:\Tmpvfpp\mrtc_app\mrtc.xps*" "C:\Windows\" /e /i
+xcopy "C:\Tmpvfpp\mrtc_app\MRTC_New\*" "C:\MRTC_New" /e /i
+xcopy "C:\Tmpvfpp\mrtc_app\VFPRG\*" "F:\VFPRG\" /e /i
 pause
 set target=C:\Mrtc_new\F.BAT
 set shortcut=%USERPROFILE%\Desktop\Desktop\mrtc.lnk
