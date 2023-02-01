@@ -21,7 +21,7 @@ xcopy "C:\Tmpvfpp\mrtc_app\MRTC_New\*" "C:\MRTC_New" /e /i
 xcopy "C:\Tmpvfpp\mrtc_app\VFPRG\*" "F:\VFPRG\" /e /i
 pause
 set target=C:\Mrtc_new\F.BAT
-set shortcut=%USERPROFILE%\Desktop\Desktop\mrtc.lnk
+set shortcut=%USERPROFILE%\Desktop\mrtc.lnk
 
 rem Create the shortcut
 echo Set oWS = WScript.CreateObject("WScript.Shell") > %temp%\CreateShortcut.vbs
