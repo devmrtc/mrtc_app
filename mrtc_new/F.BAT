@@ -1,4 +1,4 @@
 c:
 cd\Mrtc_New
 path=f:\vfprg
-vfp9.exe
+start /b vfp9.exe
