@@ -1,4 +1,8 @@
 @echo off
+type ascii.txt
+echo version 10.3
+echo DEVELOPED BY: SUBODH KUMAR
+echo Managed By: "Manu & Rajnish"
 echo WELCOME TO SOFTWARE INSTALLATION OF MAA RUDRA TRANSPORT CARRIERS PVT. LTD.
 pause
 echo we are installing git now -------------------------------------------------------
