@@ -10,17 +10,18 @@ pause
 if exist "F:\" (
   echo Drive F exists.
 ) else (
-  echo Drive F does not exist.
+  	echo Drive F does not exist.
   mkdir "F:\"
-  echo Drive F created successfully.
+  	echo Drive F created successfully.
+  		 else %errorlevel% neq 0 (
+  		echo Error: Neither F exists Nor Created
+ 
+  exit /b 1
+)
+  
 )
 
 pause
-if %errorlevel% neq 0 (
-  echo Error: Neither F exists Nor Created
-  pause
-  exit /b 1
-)
 
 set "file1=C:\Windows\mrtc.xps\"
 if exist "%file1%" (
@@ -53,10 +54,7 @@ if exist "%file4%" (
   echo File "%file4%" not found.
   
 pause
-if %errorlevel% neq 0 (
-  echo Error:Delete Not Successful 
-  pause
-  exit /b 1
+
 )
 REM Check if Git is installed
 git --version >nul 2>&1
@@ -66,19 +64,13 @@ if %errorlevel% NEQ 0 (
 ) else (
   echo Git is already installed.
 )
-
 echo Git Installed.
-
-
-pause
 if %errorlevel% neq 0 (
   echo Error: Unable To Install Git.
   pause
   exit /b 1
 )
-pause
 timeout /t 05
-
 set "desktop=%USERPROFILE%\Desktop"
 echo The desktop location is: %desktop%
 cd %USERPROFILE%\Desktop
@@ -124,4 +116,4 @@ if %errorlevel% neq 0 (
   pause
   exit /b 1
 )
-Echo installation successfull
+echo "installation successful"
