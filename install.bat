@@ -1,5 +1,5 @@
 @echo off
-type ascii.txt
+type %USERPROFILE%\Desktop\mrtc_app\ascii.txt
 echo version 10.3
 echo DEVELOPED BY: MR.SUBODH KUMAR
 echo Managed By: "Manu & Rajnish"
@@ -70,7 +70,7 @@ rem Delete the temporary VBScript file
 del %temp%\CreateShortcut.vbs
 if %errorlevel% neq 0 (
   echo Error: shortcut Not Created
-	else echo Installation Done.
+	   else echo Installation Done.
   pause
   exit /b 1
 )

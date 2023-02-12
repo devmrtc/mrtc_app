@@ -1,5 +1,5 @@
 @echo off
-type ascii.txt
+type %USERPROFILE%\Desktop\mrtc_app\ascii.txt
 echo version 10.3
 echo DEVELOPED BY: MR.SUBODH KUMAR
 echo Managed By: "Manu & Rajnish"
